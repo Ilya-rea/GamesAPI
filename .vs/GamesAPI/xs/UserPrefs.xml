@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{C198A0E3-6C14-460C-95B4-2E13CE3C822B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GamesAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GamesAPI/Controllers/GamesController.cs">
+    <Files>
+      <File FileName="GamesAPI/Controllers/GamesController.cs" Line="34" Column="39" />
+      <File FileName="GamesAPI/Models/GameForm.cs" />
+      <File FileName="GamesAPI/Models/AppDbContext.cs" />
+      <File FileName="GamesAPI/Repositories/GameRepository.cs" />
+      <File FileName="GamesAPI/Repositories/IRepository.cs" />
+      <File FileName="GamesAPI/appsettings.json" />
+      <File FileName="GamesAPI/Program.cs" />
+      <File FileName="GamesAPI/Services/ModelMapping.cs" />
+      <File FileName="GamesAPI/Services/IModelMapping.cs" />
+      <File FileName="GamesAPI/Properties/launchSettings.json" />
+      <File FileName="GameAPITests/GameRepositoryTests.cs" />
+      <File FileName="GameAPITests/Usings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GamesAPI" expanded="True">
+            <Node name="GamesAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="GamesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="GamesAPITests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
