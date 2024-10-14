@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{C198A0E3-6C14-460C-95B4-2E13CE3C822B}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.GamesAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="GamesAPI/Controllers/GamesController.cs">
     <Files>
-      <File FileName="GamesAPI/Controllers/GamesController.cs" Line="34" Column="39" />
+      <File FileName="GamesAPI/Controllers/GamesController.cs" Line="30" Column="1" />
       <File FileName="GamesAPI/Models/GameForm.cs" />
       <File FileName="GamesAPI/Models/AppDbContext.cs" />
       <File FileName="GamesAPI/Repositories/GameRepository.cs" />
@@ -24,11 +24,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GamesAPI" expanded="True">
+          <Node name="GamesAPI">
             <Node name="GamesAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="GamesController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Repositories" expanded="True" />
               <Node name="Services" expanded="True" />
